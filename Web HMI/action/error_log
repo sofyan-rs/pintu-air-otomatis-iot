@@ -1,0 +1,11 @@
+[11-Apr-2022 20:20:01 Asia/Jakarta] PHP Warning:  Undefined array key "email" in /home/koid5378/public_html/pintu-air/action/login_check.php on line 5
+[11-Apr-2022 20:20:01 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home/koid5378/public_html/pintu-air/action/login_check.php on line 6
+[11-Apr-2022 20:20:08 Asia/Jakarta] PHP Warning:  Undefined array key "email" in /home/koid5378/public_html/pintu-air/action/login_check.php on line 5
+[11-Apr-2022 20:20:08 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home/koid5378/public_html/pintu-air/action/login_check.php on line 6
+[09-May-2022 17:21:33 Asia/Jakarta] PHP Warning:  Undefined array key "email" in /home/koid5378/public_html/pintu-air/action/login_check.php on line 5
+[09-May-2022 17:21:33 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home/koid5378/public_html/pintu-air/action/login_check.php on line 6
+[31-May-2022 17:31:53 Asia/Jakarta] PHP Warning:  Undefined array key "email" in /home/koid5378/public_html/pintu-air/action/login_check.php on line 5
+[31-May-2022 17:31:53 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home/koid5378/public_html/pintu-air/action/login_check.php on line 6
+[31-May-2022 21:03:50 Asia/Jakarta] PHP Warning:  Undefined array key "saluran" in /home/koid5378/public_html/pintu-air/action/export_excel.php on line 29
+[31-May-2022 21:03:50 Asia/Jakarta] PHP Warning:  Undefined variable $query in /home/koid5378/public_html/pintu-air/action/export_excel.php on line 42
+[31-May-2022 21:03:50 Asia/Jakarta] PHP Warning:  Attempt to read property "num_rows" on null in /home/koid5378/public_html/pintu-air/action/export_excel.php on line 42
